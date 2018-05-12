@@ -1,0 +1,27 @@
+_repo: Agriculture-in-Virginia-1607-1699_28730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carrier, Lyman
+    birthdate: 1877
+    deathdate: 1963
+    gutenberg_agent_id: '33507'
+    url: http://www.gutenberg.org/2009/agents/33507
+description: ''
+gutenberg_issued: '2009-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Jamestown 350th Anniversary Historical Booklet Number 14
+subjects:
+- !lcsh 'Agriculture -- Virginia -- History'
+- !lcc 'S'
+title: Agriculture in Virginia, 1607-1699
+url: http://www.gutenberg.org/ebooks/28730
